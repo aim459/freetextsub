@@ -6,18 +6,18 @@ log-level: info
 proxies:
 - name: 🇮🇶 IQ 01 - xiaohe
   type: vless
-  server: 188.114.97.7
+  server: 104.19.1.115
   port: 443
-  uuid: ba49d874-fe02-465d-82d3-ed981dc7694f
+  uuid: e285fb9b-ce0a-45ea-84da-4ad64cacd216
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: o94Yv7LIF0-aNXISd9eFehvvS7mxn6bH.Z-ULe-iKa-d-e-ne-K-e.wORkeRs.Dev
+  servername: apP-874a55-219AFC.rEigNsskY2.WORKerS.dev
   network: ws
   ws-opts:
-    path: /7J5lLqtBnJg9WjVT?ed
+    path: /vl/dOH03263y00uTucKhyn?ed
     headers:
-      Host: o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev
+      Host: app-874a55-219afc.reignssky2.workers.dev
 proxy-groups:
 - name: PROXIES
   type: select
